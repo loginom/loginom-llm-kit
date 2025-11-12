@@ -18,17 +18,7 @@
 
 4. Добавьте ссылку на пакет **loginom_llm_kit.lgp** в своем пакете и используйте компоненты библиотеки.
 
-```
-Рабочий каталог
-└─ libs
-   ├─ llm_kit
-   │  └─ loginom_llm_kit.lgp
-   ├─ llm_kit_demo
-   ├─ silver_kit
-   │  └─ loginom_silver_kit.lgp
-   └─ json_kit
-      └─ loginom_json_kit.lgp
-```
+![Схема расположения библиотеки в рабочем каталоге](docs/img/llm-kit.svg)
 
 
 ## Требования
