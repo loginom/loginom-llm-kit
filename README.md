@@ -1,7 +1,7 @@
 # Loginom LLM Kit
 
-* Версия: 1.0.0
-* Проверено: Все редакции Loginom 7.2.9
+* Версия: 1.1.0
+* Проверено: Все редакции Loginom 7.3.1
 
 Библиотека для работы с большими языковыми моделями (LLM).
 
@@ -20,14 +20,13 @@
 
 ![Схема расположения библиотеки в рабочем каталоге](docs/img/llm-kit.svg)
 
-
 ## Требования
 
 Для работы библиотеки **Loginom LLM Kit** необходимо:
 
-* Установленное ПО Loginom. Версия не ниже 7.2.9
-* Библиотека **Loginom Silver Kit** ([скачать на GitHub](https://github.com/loginom/loginom-silver-kit)). Версия не ниже 3.1.5.
-* Библиотека **Loginom JSON Kit** ([скачать на GitHub](https://github.com/loginom/loginom-json-kit)). Версия не ниже 1.1.0.
+* Установленное ПО Loginom. Версия не ниже 7.3.1
+* Библиотека **Loginom Silver Kit** ([скачать на GitHub](https://github.com/loginom/loginom-silver-kit)). Версия не ниже 3.2.0.
+* Библиотека **Loginom JSON Kit** ([скачать на GitHub](https://github.com/loginom/loginom-json-kit)). Версия не ниже 1.2.0.
 
 ## Список компонентов
 
